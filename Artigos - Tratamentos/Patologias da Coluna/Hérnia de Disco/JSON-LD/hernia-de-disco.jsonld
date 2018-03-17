@@ -1,0 +1,152 @@
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.drfabioafernandes.com.br/project/medico-especialista-em-coluna-hernia/"
+  },
+  "headline": "Hérnia de Disco",
+  "articleBody": "A estrutura
+Para entendermos melhor as hérnias de disco, analisaremos a estrutura da Coluna Vertebral. A Coluna Vertebral é dividida em três regiões: cervical, torácica e lombar. Esta coluna é formada basicamente pelas vértebras (que ao se sobreporem montam o canal medular), entre estas vértebras encontramos os discos intervertebrais que são compostos por cartilagem, o sacro e o cóccix.
+Pelo canal medular passam a medula espinhal, que tem sua origem no cérebro, e a cauda equina (nome dado devido à sua semelhança com um rabo de cavalo) que é uma extensão da medula, as quais são responsáveis pela condução de estímulos nervosos entre o corpo e o cérebro. Estas duas estruturas estão envolvidas por uma membrana chamada de Dura Mater, e também protegidas pelo liquor que fica entre as duas. As hérnias ocorrem principalmente na região lombar, e em alguns casos na cervical. Segundo o IBGE cerca de 54 mil brasileiros sofrem com a doença. É um problema que ocorre no disco intervertebral, que é composto por um anel fibroso com um núcleo pulposo. É um disco fibrocartilaginoso, que tem a função de absorver impactos, e permitir movimentos em diferentes eixos de rotação.
+A doença
+Abaulamento discal
+É a etapa inicial, quando o disco começa a apresentar sintomas de envelhecimento e as suas fibras começam a se romper. Estes rompimentos fragilizam a estrutura do disco, fazendo com que se forme um arco discal. Protrusão discal
+Agora o abaulamento é maior, e deste modo pode alcançar os nervos ou até mesmo a medula, provocando dor mais intensa. Nesta fase, o disco já pode estar começando a apresentar sintomas de degeneração. Extrusão discal
+Aqui a hérnia está literalmente formada. Pois a extrusão do disco aconteceu de forma completa. Ou seja, o anel fibroso já apresenta avançada degeneração. Este extravasamento compromete as estruturas nervosas, por estreitar os canais onde passam os nervos ou a medula. Sequestro
+É uma parte mais rara, que consiste na ruptura total do anel fibroso. Dependendo da localização, o fragmento pode comprometer as estruturas nervosas. Sintomas
+Dor nas costas por mais de 3 meses, quando ocorrem as crises de dor, a coluna fica torta. A dor piora durante o sono, mas ao acordar ela permanece. Ao ficar em pé com as pernas estendidas a dor piora, e ao ficar sentado por mais de 10 minutos a dor cresce. Uma ou ambas as pernas perdem a força, e não é possível ficar na ponta do pé com a mesma. Dor, formigamento ou dormência nos membros. Dificuldade para segurar a urina.
+Causas
+A coluna é um dos principais componentes para o equilíbrio do corpo. Além de ser o centro de equilíbrio musculoesquelético. Por isso, a postura é um aspecto fundamental para a saúde da sua coluna
+Fatores hereditários são uns dos maiores responsáveis pela doença. Em conjunto com traumas de esforço repetitivo, tanto no trabalho quanto no esporte. Além do fumo e da idade avançada que também são grandes contribuintes para o problema.
+Outro aspecto importante é o sedentarismo, pois, segundo pesquisas, atividades qualitativas para a coluna são um fator extremo para a saúde da coluna, tanto na prevenção de doenças, diminuição da dor e tratamento, em alguns casos.
+Diagnóstico
+Pode ser feito clinicamente, com a avaliação dos sintomas e resultados do exame neurológico. Mas para saber exatamente a localização e tamanho é necessário fazer exames de tomografia, raio-x e ressonância magnética.
+Tratamento
+A hérnia geralmente melhora com um programa de fisioterapia adequado com o acompanhamento médico. Em alguns casos indica-se o uso de anti-inflamatórios e analgésicos. E para os casos iniciais, o médico pode indicar a utilização de colágeno.
+O programa de fisioterapia deve ser indicado pelo médico especialista em coluna, conforme a área de localização da hérnia. Este programa geralmente engloba a fisioterapia manual, que visa diminuir a dor e espasmos musculares, além de aumentar a mobilidade dos tecidos.
+No primeiro mês de tratamento, indica-se a técnica de estabilização vertebral. Ela fortalece os músculos mais profundos da coluna e visa melhorar a estabilidade da mesma.
+Indica-se que o paciente faça musculação ou pilates, visando o fortalecimento das estruturas corpórea e o desenvolvimento das mesmas em conjunto.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/hernia-de-disco-1024.jpeg",
+    "height": 694,
+    "width": 1024
+  },
+  "datePublished": "2016-11-07",
+  "dateModified": "2017-03-20",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Fábio A. Fernandes"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Dr. Fábio A. Fernandes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2017/06/logo-dr-fabio-google-amp.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "description": "Conheça mais sobre a hérnia de disco uma das patologias mais frequentes e veja porque você deve consultar sempre um médico especialista em coluna."
+}, {
+
+  "@context" : "http://schema.org",
+    "@type" : "AnatomicalStructure",
+    "name" : "Coluna Vertebral",
+    "description": "A Coluna Vertebral é dividida em três regiões: cervical, torácica e lombar. Esta coluna é formada basicamente pelas vértebras (que ao se sobreporem montam o canal medular), entre estas vértebras encontramos os discos intervertebrais que são compostos por cartilagem, o sacro e o cóccix. Pelo canal medular passam a medula espinhal, que tem sua origem no cérebro, e a cauda equina (nome dado devido à sua semelhança com um rabo de cavalo) que é uma extensão da medula, as quais são responsáveis pela condução de estímulos nervosos entre o corpo e o cérebro. Estas duas estruturas estão envolvidas por uma membrana chamada de Dura Mater, e também protegidas pelo liquor que fica entre as duas.",
+    "associatedPathophysiology" : "Hérnia de Disco",
+    "bodyLocation" : "Coluna",
+    "connectedTo" : "Coluna",
+    "relatedCondition" : "Hérnia de Disco",
+    "diagram": {
+        "@type": "ImageObject",
+        "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/Untitled-240x300-1.png",
+        "width": 240,
+        "height": 300
+    }
+  }, {
+    "@context" : "http://schema.org",
+      "@type" : "MedicalCondition",
+      "code" : {
+        "@type" : "MedicalCode",
+          "codeValue" : "M51",
+          "codingSystem" : "ICD-10"
+
+          },
+          "medicineSystem": "WesternConventional",
+          "description" : "As hérnias ocorrem principalmente na região lombar, e em alguns casos na cervical. Segundo o IBGE cerca de 54 mil brasileiros sofrem com a doença. É um problema que ocorre no disco intervertebral, que é composto por um anel fibroso com um núcleo pulposo. É um disco fibrocartilaginoso, que tem a função de absorver impactos, e permitir movimentos em diferentes eixos de rotação.",
+          "signOrSymptom": {
+            "@type" : "MedicalSignOrSymptom",
+              "description": "Dor nas costas por mais de 3 meses, quando ocorrem as crises de dor, a coluna fica torta. A dor piora durante o sono, mas ao acordar ela permanece. Ao ficar em pé com as pernas estendidas a dor piora, e ao ficar sentado por mais de 10 minutos a dor cresce. Uma ou ambas as pernas perdem a força, e não é possível ficar na ponta do pé com a mesma. Dor, formigamento ou dormência nos membros. Dificuldade para segurar a urina."
+
+              }
+    }, {
+        "@context": "http://schema.org",
+         "@type": "CreativeWork",
+         "video": {
+           "@type": "VideoObject",
+           "name": "Hérnia de Disco",
+           "description": "Como ocorre",
+           "thumbnailUrl": "http://i1.ytimg.com/vi/KM9ltAlw54k/hqdefault.jpg",
+           "uploadDate": "2016-12-01",
+           "duration": "PT25S",
+           "contentUrl": "https://youtu.be/KM9ltAlw54k",
+           "embedUrl": "https://www.youtube.com/embed/LiPnA6zNSNk",
+           "interactionCount": "150"
+
+         }
+
+
+
+      },{
+"@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+ [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item":
+    {
+     "@id": "http://www.drfabioafernandes.com.br",
+     "name": "Home"
+ } 
+ },
+ 
+ {
+    "@type": "ListItem",
+    "position": 2,
+    "item":
+    {
+     "@id": "http://www.drfabioafernandes.com.br/medico-ortopedista-tratamentos/",
+     "name": "Tratamentos"
+ } 
+ },
+ 
+  {
+    "@type": "ListItem",
+    "position": 3,
+    "item":
+    {
+     "@id": "http://www.drfabioafernandes.com.br/medico-ortopedista-tratamentos/medico-especialista-em-coluna-tratamentos/",
+     "name": "Coluna"
+ } 
+ },
+   {
+    "@type": "ListItem",
+    "position": 4,
+    "item":
+    {
+     "@id": "http://www.drfabioafernandes.com.br/project/medico-especialista-em-coluna-hernia/",
+     "name": "Hérnia de Disco"
+ }
+ } 
+
+     ]
+}
+
+]
+  </script>

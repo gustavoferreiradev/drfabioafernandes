@@ -1,0 +1,92 @@
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.drfabioafernandes.com.br/cirurgia-minimamente-invasiva/"
+  },
+  "headline": "Cirurgia Minimamente Invasiva da Coluna Vertebral",
+  "articleBody": "Pequenos cortes, grandes resultados
+Cirurgia minimamente invasiva para tratar hérnia e desgastes do disco intervertebral, recuperação mais rápida e menos dor no pós-operatório são vantagens das novas técnicas.
+Cirurgia de ALIF (Anterior Lumbar Interbody Fusion) realizada no Instituto Mussi em Setembro de 2014.
+O que é Cirurgia minimamente invasiva da Coluna Vertebral, e quais são as suas vantagens?
+Uma cirurgia minimamente invasiva caracteriza-se não só por apresentar cortes menores, mas por menor dano interno: menores danos aos músculos e tecidos adjacentes à incisão e pouco sangramento, assim gerando menor tempo de hospitalização, menor incidência de complicações pós-operatórias, menos dor e recuperação mais rápida. Por estes motivos, a cirurgia minimamente invasiva é uma tendência mundial nas diversas especialidades cirúrgicas da medicina moderna.
+Como surgiu a cirurgia minimamente invasiva da coluna?
+Junto ao grande avanço tecnológico que houve no campo dos aparelhos de imagem, de novos equipamentos cirurgicos, de instrumentos ópticos, cada vez mais, as patologias mais complexas estão sendo solucionadas através de procedimentos cada vez menos agressivos em todos os ramos da medicina e em especial na coluna vertebral. Exemplo disto sao as cirurgias com mini incisões, técnicas com utilização do microscópio ou o artroscópio (endoscópio)
+A cirurgia minimamente invasiva substituiu a cirurgia convencional?
+Muitas dessas técnicas já substituíram as cirurgias convencionais e outras são aceitas como alternativa ao tratamento convencional.
+Qualquer profissional esta apto a realizar este tipo de cirurgia?
+A maioria dessas técnicas são altamente sofisticadas e requerem um maior tempo de treinamento para o aprendizado: todos os integrantes da equipe medica do Instituto de Ortopedia Mussi, têm titulo de especialista e treinamento no exterior.  É necessaria uma alta capacitação técnica, pois devido ao corte menor, a exposiçao da area que sera abordada tambem é menor, sendo necessario um dominio da  anatomia local, para  se realizar os procedimentos necessarios de forma segura. E é neste ponto onde entram os recursos tecnologicos, como fontes de luz, microscopios, lupas e instrumentos delicados, para compensar as dificuldades do campo de trabalho reduzido.
+Que outros equipamentos e estruturas de suporte são necessários?
+É necessario um alto investimento na aquisição de aparelhos, equipamentos e instrumentais. É necessario um centro cirúrgico equipado adequadamente com sistemas de vídeo cirurgia, equipamentos de radiofreqüência, aparelho radioscopia de boa qualidade e até mesmo de navegadores cirúrgicos assistidos por raios infravermelhos ou a laser. No Instituto Mussi, muitas dessas técnicas já se tornaram procedimentos rotineiros.
+Que condições podem ser tratadas com Cirurgia Minimamente Invasiva da Coluna?
+É possivel tratar uma variedade patologias, assim como:
+> Dor lombar (dor nas costas)
+> Dor cervical (dor no pescoço)
+> Ciática (dor lombar que irradia para o membro inferior)
+> Hérnia de disco
+> Estenose espinhal (estreitamento da medula espinhal)
+> Escoliose
+> Espondilolistese (escorregamento de vértebra sobre outra)
+> Doença degenerativa discal (desgaste dos discos intervertebrais)
+> Fraturas da Coluna
+> Tumores Coluna
+Quais são os tratamentos da Cirurgia Minimamente Invasiva da Coluna atualmente?
+Embora a lista de técnicas continua a se expandir, hoje as mais comumente empregadas incluem:
+> Microdiscetomia Endoscópica (retirada da hérnia de disco por video cirurgia)
+> Laminectomia lombar (retirada de hernia de disco por mini incisao)
+> Artrodese Minimamente Invasiva- ALIF e XLIF – (fusao de 2 vertebras por via de acesso Anterior ou Lateral, preservando a musculatura posterior da coluna).
+> Artrodese com parafuso percutâneo pedícular (uso de parafusos para fixacao de 2 vertebras, por meio de mini incisao)
+> Vertebroplastia/ Cifoplastia (tratamento de fratura vertebral por meio de injecao de cimento cirurgico dentro da vertebra fraturada)
+> Terapia de dor por Radiofrequencia/ denervaçao facetaria (cauterizaçao da inervaçao facetaria)
+Como obtenho mais informações  detalhadas sobre estes novos tratamentos e técnicas?
+Aqui mesmo em meu site e no site do Instituto Mussi.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2017/01/14265075_1155247907864994_5123858678840793544_n-1080x675.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2017-01-18T09:50:00-03:00",
+  "dateModified": "2017-09-06T16:15:00-03:00",
+  "wordCount": 609,
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Fábio A. Fernandes"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Dr. Fábio A. Fernandes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2017/06/logo-dr-fabio-google-amp.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "description": "Pequenos cortes, grandes resultados. Cirurgia minimamente invasiva para tratar hérnia e desgastes do disco intervertebral, recuperação mais rápida."
+}, {
+
+  "@context" : "http://schema.org",
+    "@type" : "SurgicalProcedure",
+    "name" : "Cirurgia Minimamente Invasiva",
+    "description": "Cirurgia minimamente invasiva para tratar hérnia e desgastes do disco intervertebral, recuperação mais rápida e menos dor no pós-operatório são vantagens das novas técnicas.",
+    "howPerformed" : "Junto ao grande avanço tecnológico que houve no campo dos aparelhos de imagem, de novos equipamentos cirurgicos, de instrumentos ópticos, cada vez mais, as patologias mais complexas estão sendo solucionadas através de procedimentos cada vez menos agressivos em todos os ramos da medicina e em especial na coluna vertebral. Exemplo disto sao as cirurgias com mini incisões, técnicas com utilização do microscópio ou o artroscópio (endoscópio).",
+    "indication":["Dor lombar (dor nas costas)",
+                "Dor cervical (dor no pescoço)",
+                "Ciática (dor lombar que irradia para o membro inferior)",
+                "Hérnia de disco",
+                "Estenose espinhal (estreitamento da medula espinhal)",
+                "Escoliose",
+                "Espondilolistese (escorregamento de vértebra sobre outra)",
+                "Doença degenerativa discal (desgaste dos discos intervertebrais)",
+                "Fraturas da Coluna",
+                "Tumores Coluna"
+    
+ ]
+  }
+
+    
+  ]
+  </script>

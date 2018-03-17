@@ -1,0 +1,81 @@
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.drfabioafernandes.com.br/cirurgia-de-pe-joanete"
+  },
+  "headline": "Evolução da ortopedia acaba com sofrimento no joanete",
+  "articleBody": "Há alguns anos, para se livrar de um joanete, era preciso se internar em um hospital ortopédico, encarar uma cirurgia tradicional, aberta, com serragem do osso, muita dor pós-cirúrgica e um período de 45 dias a dois meses de repouso, sem colocar o pé no chão! Tudo muito sofrido, dificultoso e ainda com grandes riscos de recidiva, o que comumente acontecia com 40 a 50% dos pacientes, que após um ou dois anos lá estavam de volta à clínica de ortopedia com o pé novamente deformado, por vezes até em maior intensidade que antes.
+Mas, a boa notícia para quem já sofreu assim ou ainda sofre com o incômodo, a dor, o medo, a falta de tempo e oportunidade para tratar seus joanetes, é que a tendência mundial da medicina é ser cada vez menos invasiva, e a ortopedia e traumatologia também já compartilham desse propósito, possibilitando o mínimo de incisões possível em correções ósseas e articulares, com a cirurgia percutânea ou cirurgia minimamente invasiva.  Já ouviu falar?
+É uma cirurgia ambulatorial, ou seja, não precisa ser internado. É feita com anestesia local, sem os riscos e efeitos colaterais que uma anestesia geral, raquidiana ou peridural pode causar, principalmente para os cardíacos. O paciente fica de duas a três horas em repouso após a intervenção para observar o sistema circulatório, neurológico e, como normalmente não há incidências de complicações pós-procedimento, já pode ir para casa andando!
+O cirurgião ortopedista especialista em pé faz mini-incisões, de um a três furos, com bisturis bem pequenos, atuando como uma broca de dentista, com uma turbina que coloca as minifresas nas extremidades, muito semelhante a um procedimento dentário.
+O ortopedista cirurgião utiliza um fluoroscópio que transmite a imagem interna do pé em um monitor, para que ele possa ir visualizando e fazendo todo o procedimento. Tudo dentro de um ambulatório de uma clínica ortopédica, com custo bem inferior ao de uma cirurgia tradicional, possibilitando o acesso a pacientes de menor poder aquisitivo.
+A cirurgia percutânea também promove a diminuição das listas de espera nos hospitais de traumato ortopedia, pois é possível realizar mais tratamentos com essa técnica simples do que os demorados procedimentos convencionais. Sem contar que reduz eficientemente o risco de recidiva, porque faz todas as correções ósseas e articulares necessárias e todas as liberações de tendões e cápsulas que possam estar provocando as deformidades. Isso quer dizer que trata o mal pela raiz, eliminando as origens. É uma cirurgia completa, que pode, inclusive, fazer a intervenção em todos os dedos do pé se assim for preciso, cuidando para que não fique nenhuma brecha que possa causar a volta da deformidade.
+E, se você tem um joanete aí no seu pé e está agora se perguntando se pode fazer uso desse procedimento cirúrgico, saiba que a indicação da cirurgia minimamente invasiva é para casos em que o joanete está causando dor e dificuldade para andar. Mas, não espere chegar a esse ponto para procurar um ortopedista especialista em pé, pois o quanto antes acompanhado o seu problema para o devido tratamento, menor o seu sofrimento, não é mesmo? E, para quem sofre de artrite reumatoide, patologia que atinge mais os idosos, é bom ficar em alerta, porque é uma das causas mais comuns que provocam a deformidade do pé.
+Atualmente, são poucos os cirurgiões que praticam essa técnica percutânea, mas a Sociedade Brasileira de Pé e Tornozelo está batalhando para expandir e torná-la padrão na medicina ortopédica.  Os cirurgiões ortopedistas precisam se especializar nesse procedimento, o qual tem uma curva de aprendizado longa e que requer bastante treinamento para se praticar.
+Aqui, no Instituto Mussi – em Pato Branco, PR – já estamos devidamente qualificados para oferecer a nossos pacientes essa possibilidade de dar adeus aos seus joanetes, sem sofrimento, sem altos custos cirúrgicos, sem prolongados períodos de recuperação, com mínimos riscos de recidiva. Venha nos visitar!",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/joanete.jpg",
+    "height": 386,
+    "width": 696
+  },
+  "datePublished": "2016-11-14T11:01:00-03:00",
+  "dateModified": "2017-08-04T17:35:00-03:00",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Fábio A. Fernandes"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Dr. Fábio A. Fernandes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2017/06/logo-dr-fabio-google-amp.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "description": "Antes quando o paciente sofria de joanete, era preciso recorrer ao procedimento de cirurgia de pé comum, hoje temos a forma minimamente invasiva."
+}, {
+
+  "@context" : "http://schema.org",
+    "@type" : "SurgicalProcedure",
+    "name" : "Cirurgia Minimamente Invasiva",
+    "description": "Há alguns anos, para se livrar de um joanete, era preciso se internar em um hospital ortopédico, encarar uma cirurgia tradicional, aberta, com serragem do osso, muita dor pós-cirúrgica e um período de 45 dias a dois meses de repouso, sem colocar o pé no chão! Tudo muito sofrido, dificultoso e ainda com grandes riscos de recidiva, o que comumente acontecia com 40 a 50% dos pacientes, que após um ou dois anos lá estavam de volta à clínica de ortopedia com o pé novamente deformado, por vezes até em maior intensidade que antes.
+Mas, a boa notícia para quem já sofreu assim ou ainda sofre com o incômodo, a dor, o medo, a falta de tempo e oportunidade para tratar seus joanetes, é que a tendência mundial da medicina é ser cada vez menos invasiva, e a ortopedia e traumatologia também já compartilham desse propósito, possibilitando o mínimo de incisões possível em correções ósseas e articulares, com a cirurgia percutânea ou cirurgia minimamente invasiva. Já ouviu falar?",
+    "bodyLocation" : "Pé",
+    "howPerformed":"É feita com anestesia local, sem os riscos e efeitos colaterais que uma anestesia geral, raquidiana ou peridural pode causar, principalmente para os cardíacos. O paciente fica de duas a três horas em repouso após a intervenção para observar o sistema circulatório, neurológico e, como normalmente não há incidências de complicações pós-procedimento, já pode ir para casa andando!
+O cirurgião ortopedista especialista em pé faz mini-incisões, de um a três furos, com bisturis bem pequenos, atuando como uma broca de dentista, com uma turbina que coloca as minifresas nas extremidades, muito semelhante a um procedimento dentário.
+O ortopedista cirurgião utiliza um fluoroscópio que transmite a imagem interna do pé em um monitor, para que ele possa ir visualizando e fazendo todo o procedimento. Tudo dentro de um ambulatório de uma clínica ortopédica, com custo bem inferior ao de uma cirurgia tradicional, possibilitando o acesso a pacientes de menor poder aquisitivo.",
+"outcome": "A cirurgia percutânea também promove a diminuição das listas de espera nos hospitais de traumato ortopedia, pois é possível realizar mais tratamentos com essa técnica simples do que os demorados procedimentos convencionais. Sem contar que reduz eficientemente o risco de recidiva, porque faz todas as correções ósseas e articulares necessárias e todas as liberações de tendões e cápsulas que possam estar provocando as deformidades. Isso quer dizer que trata o mal pela raiz, eliminando as origens. É uma cirurgia completa, que pode, inclusive, fazer a intervenção em todos os dedos do pé se assim for preciso, cuidando para que não fique nenhuma brecha que possa causar a volta da deformidade.",
+"indication":{
+  "@type": "MedicalIndication",
+  "name": "Dor e dificuldade para andar",
+  "description": "A indicação da cirurgia minimamente invasiva é para casos em que o joanete está causando dor e dificuldade para andar. E, para quem sofre de artrite reumatoide, patologia que atinge mais os idosos, é bom ficar em alerta, porque é uma das causas mais comuns que provocam a deformidade do pé."
+}
+},{
+        "@context": "http://schema.org",
+         "@type": "CreativeWork",
+         "video": {
+           "@type": "VideoObject",
+           "name": "Mestre em ortopedia e traumatologia comenta uso da tecnologia em cirurgias",
+           "description": "O avanço tecnológico está presente nos mais diversos procedimentos médicos {cirúrgicos}, o exemplo é a correção do conhecido joanete, que é uma alteração óssea mais comum do pé adulto. O joanete não é um osso cresceu ou que surgiu, mas caracteriza-se pelo desvio do primeiro metatarsiano {osso do dedão}.
+A ferramenta tecnológica já está sendo utilizada em Pato Branco, segundo o doutor Paulo Roberto Mussi, mestre em ortopedia e traumatologia. O procedimento cirúrgico, explica Mussi, é realizado através de pequenos furos, um, dois, ou três furos no máximo, para efetuar a correção. Até pouco tempo o procedimento era feito via grandes incisões, recorda Mussi.
+Com a tecnologia, o procedimento é realizado através de um intensificador, e baseado na imagem exibida no monitor. Mussi disse que está na fase inicial do processo da microcirurgia do pé, mas é possível outros procedimentos, por exemplo, das artrodeses. A cirurgia artrodese cervical é utilizada no tratamento de diversas patologias, como as hérnias de disco cervicais, a mielopatia cervical, entre outras.
+Os pacientes submetidos à correção do joanete através da nova tecnológica ficam dispensados do uso de gesso e estando liberados para apoiar o calcâneo no dia seguinte à cirurgia.",
+           "thumbnailUrl": "http://i1.ytimg.com/vi/0j8bRWUQRcg/hqdefault.jpg",
+           "uploadDate": "2014-05-07",
+           "duration": "PT4M01S",
+           "contentUrl": "https://youtu.be/0j8bRWUQRcg",
+           "embedUrl": "https://www.youtube.com/embed/0j8bRWUQRcg",
+           "interactionCount": "4283"
+
+         }
+
+
+
+      }]
+  </script>

@@ -1,0 +1,74 @@
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.drfabioafernandes.com.br/medico-especialista-em-ombro-lesoes"
+  },
+  "headline": "Como evitar lesões nos ombros na prática esportiva",
+  "articleBody": "Os ombros são umas das partes mais complexas do corpo humano. Formados por um complexo que envolve diversas articulações(anatômicas e funcionais), o que nos possibilita muitas das movimentações que fazemos com os braços. Sejam movimentos de flexão, extensão, rotatórios, adução ou abdução. Estas articulações estão unidas por músculos, e esses são os mais utilizados em praticas esportivas. Na musculação, por exemplo, os ombros são utilizados o tempo todo, exigindo, assim, cuidados especiais. Não apenas para prevenir lesões, mas também para não comprometer a funcionalidade e não comprometer seu trabalho. Afinal, como se diz, uma lesão no ombro, é sempre uma lesão no ombro, e quando ela acontece, como somos dependentes de seus movimentos para realizar outros durante a prática esportiva, é preciso esperar ele sarar, antes de voltar aos treinos.
+Assim, separamos algumas dicas de como prevenir lesões nas articulações do ombro.
+É importante que não sejam realizadas rotações intensas antes do treino, para não fadigar a musculatura do manguito rotador, que é auxiliar, antes da musculatura principal;
+Para realizar o aquecimento da musculatura do manguito rotador, realize poucas séries de rotações sem carga;
+Ao realizar o treinamento de peitoral, mantenha o foco no músculo alvo. Ao aumentar demais a carga, você estará exigindo mais da musculatura auxiliar(ombros) do que da musculatura alvo, muitas vezes;
+Procure entender e realizar bem a movimentação correta dos supinos. Pois gera sobre carga nos ombros e pode lesioná-los com muita facilidade;
+Não treine ombros em um dia, e no dia seguinte treine peitorais, é importante dividir bem a carga de treinos, pois os ombros demoram mais tempo na recuperação do que musculaturas menos complexas;
+Treine os ombros mais de uma vez por semana, um dia a parte anterior, e outro a parte posterior. Ou separar um dia para o treino dos ombros e descansá-los por 7 dias;
+Treinar a região lateral, o deltoide.
+Separar períodos de descanso, totalmente sem treino, com intervalos de 7 dias, é importante, para todo o processo.
+Como vimos, os ombros apresentam formas de respostas diferentes devido ao seu grau de complexidade. E por isso são muito suscetíveis a lesões por erros, e assim prejudicando o trabalho por ele exercido, e também acabam retardando, ou pausando os resultados buscados na prática de esporte.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/Flexoes-com-bola-Musculacao-1024x744.jpg",
+    "height": 744,
+    "width": 1024
+  },
+  "datePublished": "2016-11-04T15:13:00-03:00",
+  "dateModified": "2017-08-04T15:30:00-03:00",
+  "wordCount": 381,
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Fábio A. Fernandes"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Dr. Fábio A. Fernandes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2017/06/logo-dr-fabio-google-amp.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "description": "Confira dicas de como evitar lesões nos ombros durante a sua prática esportiva e o porquê você deve procurar sempre o médico especialista em ombro."
+}, {
+
+  "@context" : "http://schema.org",
+    "@type" : "AnatomicalStructure",
+    "name" : "Ombros",
+    "description": "Os ombros são umas das partes mais complexas do corpo humano. Formados por um complexo que envolve diversas articulações(anatômicas e funcionais), o que nos possibilita muitas das movimentações que fazemos com os braços. Sejam movimentos de flexão, extensão, rotatórios, adução ou abdução. Estas articulações estão unidas por músculos, e esses são os mais utilizados em praticas esportivas",
+    "associatedPathophysiology" : "Lesões nos Ombros",
+    "bodyLocation" : "Ombros",
+    "connectedTo" : "Pescoço",
+    "relatedCondition" : "Lesões"
+  }, {
+    "@context" : "http://schema.org",
+      "@type" : "MedicalCondition",
+      "medicineSystem": "WesternConventional",
+          "primaryPrevention": {
+            "@type": "MedicalTherapy",
+            "name":"Dicas de como prevenir lesões nas articulações do ombro",
+            "howPerformed":"É importante que não sejam realizadas rotações intensas antes do treino, para não fadigar a musculatura do manguito rotador, que é auxiliar, antes da musculatura principal;
+Para realizar o aquecimento da musculatura do manguito rotador, realize poucas séries de rotações sem carga;
+Ao realizar o treinamento de peitoral, mantenha o foco no músculo alvo. Ao aumentar demais a carga, você estará exigindo mais da musculatura auxiliar(ombros) do que da musculatura alvo, muitas vezes;
+Procure entender e realizar bem a movimentação correta dos supinos. Pois gera sobre carga nos ombros e pode lesioná-los com muita facilidade;
+Não treine ombros em um dia, e no dia seguinte treine peitorais, é importante dividir bem a carga de treinos, pois os ombros demoram mais tempo na recuperação do que musculaturas menos complexas;
+Treine os ombros mais de uma vez por semana, um dia a parte anterior, e outro a parte posterior. Ou separar um dia para o treino dos ombros e descansá-los por 7 dias;
+Treinar a região lateral, o deltoide.
+Separar períodos de descanso, totalmente sem treino, com intervalos de 7 dias, é importante, para todo o processo."
+
+}
+    }
+  ]
+  </script>

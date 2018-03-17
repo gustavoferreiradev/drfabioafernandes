@@ -1,0 +1,587 @@
+<script type="application/ld+json">
+[
+{
+
+  "@context": "http://schema.org",
+  "@type": "MedicalCondition",
+   "name": "Hérnia de Disco Lombar",
+   "associatedAnatomy": {
+    "@type": "AnatomicalStructure",
+    "name": "Coluna Vertebral",
+    "description": "A estrutura óssea da coluna é formada pelas vértebras, e dentro delas há uma espécie de canal, conhecido como o canal vertebral, que é onde passa a medula espinhal junto com as raízes nervosas. Essas raízes se apresentam em 31 pares de nervos, os quais saem da coluna vertebral pelos orifícios localizados entre uma vértebra e outra (orifícios de conjugação), e é justamente por meio desses nervos que a medula emite os impulsos do sistema nervoso que proporcionam os movimentos dos músculos. Portanto, podemos concluir como é enorme a importância da coluna em nosso organismo, pois assim como a caixa craniana protege o cérebro, a coluna é esse tubo que protege a medula de possíveis compressões e traumas. Tudo para que o nosso corpo possa se movimentar livre e saudavelmente.",
+    "diagram": {
+    "@type": "ImageObject",
+    "caption": "Anatomia da Coluna Vertebral",
+    "width": 421,
+    "height": 337,
+    "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/estrutura-coluna.jpg"
+
+},
+    "subStructure": [
+    {
+    "@type": "AnatomicalStructure",
+    "name": "Cervical",
+    "description": "Região superior das costas",
+    "subStructure": [
+    {
+    	"@type": "AnatomicalStructure",
+        "name": "C1",
+        "description": "Nervo Cervical"
+    },{
+        "@type": "AnatomicalStructure",
+        "name": "C2",
+        "description": "Nervo Cervical"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "C3",
+        "description": "Nervo Cervical"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "C4",
+        "description": "Nervo Cervical"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "C5",
+        "description": "Nervo Cervical"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "C6",
+        "description": "Nervo Cervical"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "C7",
+        "description": "Nervo Cervical"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "C8",
+        "description": "Nervo Cervical: o oitavo nervo cervical sai abaixo da vértebra C7 (Existem 8 nervos cervicais, mas somente 7 vertébras cervicais)."
+    
+}
+    
+    ]
+    
+},{
+    "@type": "AnatomicalStructure",
+    "name": "Torácica",
+    "description": "Região mediana das costas",
+        "subStructure": [
+    {
+    	"@type": "AnatomicalStructure",
+        "name": "T1",
+        "description": "Nervo Torácico"
+    },{
+        "@type": "AnatomicalStructure",
+        "name": "T2",
+        "description": "Nervo Torácico"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "T3",
+        "description": "Nervo Torácico"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "T4",
+        "description": "Nervo Torácico"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "T5",
+        "description": "Nervo Torácico"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "T6",
+        "description": "Nervo Torácico"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "T7",
+        "description": "Nervo Torácico"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "T8",
+        "description": "Nervo Torácico"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "T9",
+        "description": "Nervo Torácico"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "T10",
+        "description": "Nervo Torácico"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "T11",
+        "description": "Nervo Torácico"
+}
+    
+    ]
+    
+    
+},{
+    "@type": "AnatomicalStructure",
+    "name": "Lombar",
+    "bodyLocation": "cintura",
+    "function":"A região lombar da coluna, dentre as outras regiões, é a maior responsável pela função dos movimentos, a qual propicia ao corpo flexão para frente e para trás, lateralidade e rotação (embora em poucos graus). Por isso, é a parte mais sobrecarregada da coluna, e essa carga é sentida entre as vértebras, podendo atingir e danificar os discos.",
+    "diagram": {
+        "@type": "ImageObject",
+         "caption": "Anatomia da Coluna Vertebral",
+        "width": 510,
+        "height": 380,
+        "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/coluna-lombar-niveis.jpg"
+    },
+    "description": "Região inferior das costas",
+        "subStructure": [
+    {
+    	"@type": "AnatomicalStructure",
+        "name": "L1",
+        "description": "Nervo Lombar"
+    },{
+        "@type": "AnatomicalStructure",
+        "name": "L2",
+        "description": "Nervo Lombar"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "L3",
+        "description": "Nervo Lombar"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "L4",
+        "description": "Nervo Lombar"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "L5",
+        "description": "Nervo Lombar"
+}
+]
+},{
+    "@type": "AnatomicalStructure",
+    "name": "Sacral",
+        "description": "Região final das costas",
+        "subStructure": [
+    {
+    	"@type": "AnatomicalStructure",
+        "name": "L1",
+        "description": "Nervo Lombar"
+    },{
+        "@type": "AnatomicalStructure",
+        "name": "L2",
+        "description": "Nervo Lombar"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "L3",
+        "description": "Nervo Lombar"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "L4",
+        "description": "Nervo Lombar"
+},{
+        "@type": "AnatomicalStructure",
+        "name": "L5",
+        "description": "Nervo Lombar"
+}
+]
+},{
+    "@type": "AnatomicalStructure",
+    "name": "Cóccix",
+    "description": "Região final das costas"
+},
+{
+    "@type": "AnatomicalStructure",
+    "name": "Discos Invertebrais",
+    "bodyLocation": "São localizados entre as vértebras – por isso, intervertebrais – nas regiões: cervical, torácica e lombar. Contabilizam 23 unidades e constituem cerca de 25% do comprimento de toda a coluna.",
+    "description": "São compostos por cartilagens de pouca vascularização, isso quer dizer que há pouca circulação sanguínea, o que impossibilita sua oxigenação celular e consequente regeneração da estrutura. Por esse motivo, quando um disco intervertebral se degenera, seja por trauma ou mesmo envelhecimento e desidratação natural, pode ocasionar diminuição na estatura da coluna e do corpo, o que é visto comumente em idosos.",
+    "function": "amortecer os impactos, absorvendo os choques a fim de evitar atritos entre as vértebras.",
+    "diagram": {
+        "@type": "ImageObject",
+        "caption": "Discos Invertebrais",
+        "width": 604,
+        "height": 369,
+        "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/hernia-de-disco-021.jpg"
+    },
+    "subStructure": {
+        "@type": "AnatomicalStructure",
+        "name": "Raízes Nervosas",
+        "function": "Por trás de cada disco sai uma raiz nervosa à direita e uma raiz nervosa à esquerda. Cada raiz é responsável por inervar a pele de uma determinada região dos membros inferiores (região chamada de dermátomo) e de um determinado grupo muscular (grupo de músculos chamado de miótomo), além de também ser responsável por um determinado reflexo específico.",        
+    
+    "subStructure": [
+        {
+        "@type": "AnatomicalStructure",
+        "name": "Raiz de L3",
+        "description": "sensibilidade: face anterolateral da coxa; motor: quadríceps."
+    },{
+        "@type": "AnatomicalStructure",
+        "name": "Raiz de L4",
+        "description": "sensibilidade: face medial da perna; motor: tibial anterior; reflexo: patelar."
+        
+    },{
+        "@type": "AnatomicalStructure",
+        "name": "Raiz de L5",
+        "description": "sensibilidade: face lateral da perna e dorso do pé ; motor: extensor do hálux."
+    },{
+        "@type": "AnatomicalStructure",
+        "name": "Raiz de S1",
+        "description": "sensibilidade: posterior de coxa e sola do pé ; motor: flexão plantar; reflexo: Aquileu."
+    }
+]
+}
+}
+    
+]
+},
+    "cause": [
+        {
+        "@type": "MedicalCause",
+        "name": "Predisposição genética, fatores hereditários"
+    },{
+        "@type": "MedicalCause",
+        "name": "Envelhecimento natural"
+    },{
+        "@type": "MedicalCause",
+        "name": "Esforço físico inadequado e/ou repetitivo, como levantar, empurrar, puxar ou carregar muito peso, inclinar e girar o tronco com muita frequência, atividades de alto impacto que conduzem a movimentos bruscos (quando não bem supervisionadas)"
+    },{
+        "@type": "MedicalCause",
+        "name": "Má postura"
+    },{
+        "@type": "MedicalCause",
+        "name": "Obesidade"
+    },{
+        "@type": "MedicalCause",
+        "name": "Sedentarismo"
+    },{
+        "@type": "MedicalCause",
+        "name": "Tabagismo"
+    }
+],
+    "differentialDiagnosis":{
+        "@type": "DDxElement",
+        "diagnosis": {
+            "@type": "MedicalCondition",
+            "name": "Dor nas costas"
+            
+        },
+        "distinguishingSign": {
+            "@type": "MedicalSignOrSymptom",
+            "description": "Ao sentir aquela dor nas costas, não hesite em procurar um médico especialista em coluna o quanto antes! Pois, a avaliação clínica é o primeiro passo para o diagnóstico. Como atrás de cada disco sai um nervo específico (raiz), e cada nervo é responsável por uma determinada região dos membros inferiores (MMII), o cirurgião de coluna experiente consegue suspeitar qual nível da coluna está acometido. Após o exame fisico, o mesmo deve ser complementado com exames de imagem : radiológicos (Raios-X), tomografias computadorizadas (TC) e ressonâncias nucleares magnéticas (RNM). Em alguns casos o cirurgião de coluna pode necessitar de um exame chamado ENMG- eletroneuromiografia, que tem a finalidade de estudar a parte sensitiva e motora dos MMII. Tudo isso para obter uma sondagem aprofundada e assertiva, a fim de que se consiga avaliar a dimensão e a localização específica da lesão. O médico especialista em coluna também irá pesquisar o histórico do paciente, inclusive familiar (por conta dos fatores hereditários), fazendo uma anamnese de todas as queixas, sintomas e hábitos dessa pessoa para avaliar possíveis causas da hérnia de disco lombar."
+        }
+    },    
+    
+    "possibleTreatment":[
+        {
+        "@type": "MedicalTherapy",
+        "name": "Tratamento Clínico Convencional",
+            "seriousAdverseOutcome": {
+            "@type": "MedicalEntity",
+            "description": "deve ser recomendada e acompanhada apenas por um médico especialista em coluna e nunca por conta própria ou conselhos amadores"
+        }
+    },{
+        "@type": "MedicalTherapy",
+        "name": "analgésicos",
+        "seriousAdverseOutcome": {
+            "@type": "MedicalEntity",
+            "description": "deve ser recomendada e acompanhada apenas por um médico especialista em coluna e nunca por conta própria ou conselhos amadores"
+        }
+    },{
+        "@type": "MedicalTherapy",
+        "name": "anti-inflamatórios",
+        "seriousAdverseOutcome": {
+            "@type": "MedicalEntity",
+            "description": "deve ser recomendada e acompanhada apenas por um médico especialista em coluna e nunca por conta própria ou conselhos amadores"
+        }
+    },{
+        "@type": "PhysicalTherapy",
+        "name": "Sessões de fisioterapia",
+            "seriousAdverseOutcome": {
+            "@type": "MedicalEntity",
+            "description": "deve ser recomendada e acompanhada apenas por um médico especialista em coluna e nunca por conta própria ou conselhos amadores"
+        }
+    },{
+        "@type": "PhysicalTherapy",
+        "name": "Acupuntura",
+            "seriousAdverseOutcome": {
+            "@type": "MedicalEntity",
+            "description": "deve ser recomendada e acompanhada apenas por um médico especialista em coluna e nunca por conta própria ou conselhos amadores"
+        }
+    },{
+        "@type": "MedicalTherapy",
+        "name": "Repouso Físico Temporário",
+        "seriousAdverseOutcome": {
+            "@type": "MedicalEntity",
+            "description": "deve ser recomendada e acompanhada apenas por um médico especialista em coluna e nunca por conta própria ou conselhos amadores. Não deve ultrapassar dois dias para não prejudicar a musculatura"
+        }
+    }
+    ],
+"primaryPrevention": [
+    {
+    "@type": "PhysicalTherapy",
+    "description": "adote bons hábitos de atividades físicas"
+},{
+    "@type": "PhysicalTherapy",
+    "description": "mantenha posturas saudáveis"
+}    
+    ],
+
+"signOrSymptom": {
+    "@type": "MedicalSignOrSymptom",
+    "name": "Dor nas costas",
+    "description": "Quando sentida na região da cintura, tem-se a famosa dor lombar ou lombalgia. E, dependendo do grau de compressão na raiz nervosa, essa dor é irradiada para uma ou para as duas pernas, o que conhecemos como “dor ciática”, o sintoma mais frequente causado por hérnia de disco lombar.A irradiação da dor de uma hérnia de disco lombar pode até chegar os pés. E o paciente também pode sentir dormência e formigamentos nos membros. Em casos avançados é possível ocorrer enfraquecimento das pernas e incontinência urinária."
+    
+},
+    "stage":[
+        {
+        "@type": "MedicalConditionStage",
+        "stageAsNumber": 1,
+        "name": "Disco Normal",
+        "description": "Quando o disco está intacto. O comprometimento se deu apenas nas placas nervosas, não tendo acometido ainda o resto dos componentes da estrutura, porém já pode haver sintomas e limitações por conta da inflamação dos nervos;",
+        "image": {
+            "@type": "ImageObject",
+            "caption": "Disco Normal",
+            "width": 106,
+            "height": 106,
+            "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/disco-normal.jpg"
+        }
+    },{
+        "@type": "MedicalConditionStage",
+        "stageAsNumber": 2,
+        "name": "Abaulamento Discal",
+        "description": "Quando já há um abaulamento discal – É considerado o início em si da patologia. O disco já começa a ser acometido pelo envelhecimento, e o anel fibroso (as fibras) já apresenta fissuras que o deformam, deixando-o em forma de arco. Podemos comparar com uma câmara de pneu quando está velha e deformada, com formação de bolhas;",
+        "image": {
+            "@type": "ImageObject",
+            "caption": "Abaulamento Discal",
+            "width": 106,
+            "height": 106,
+            "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/disco-abaulamento.jpg"
+        
+    }
+    },{
+        "@type": "MedicalConditionStage",
+        "stageAsNumber": 3,
+        "name": "Protusão Discal",
+        "description": "Quando há protrusão discal – Aqui já é considerado um estágio avançado da doença; o disco já está bem mais comprometido, com protuberâncias, saliências em sua estrutura. Pode já ter atingido nervos, medula e canal medular. O núcleo pulposo permanece envolvido pelo anel fibroso, que ainda não foi rompido;",
+        "image": {
+            "@type": "ImageObject",
+            "caption": "Protusão Discal",
+            "width": 106,
+            "height": 106,
+            "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/disco-protusao.jpg"
+        
+    }
+    },{
+        "@type": "MedicalConditionStage",
+        "stageAsNumber": 4,
+        "name": "Sequestro",
+        "description": "Quando há sequestro ou fragmento (hérnia extrusa)– Eis o estágio mais avançado, considerado raro nessa patologia. Aqui se deu a ruptura total da parte acometida pela hérnia de disco. E dependendo da localização, pode-se avaliar o comprometimento das estruturas.",
+        "image": {
+            "@type": "ImageObject",
+            "caption": "Sequestro",
+            "width": 106,
+            "height": 106,
+            "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/disco-sequestro.jpg"
+        
+    }        
+    }      
+        
+    
+]
+    
+},{
+    
+  "@context": "http://schema.org",
+  "@type": "SurgicalProcedure",
+  "name": "Disectomia",
+  "bodyLocation": "Coluna",
+  "howPerformed": "DISCECTOMIA é a retirada do disco herniado ou parte dele, dependendo da extensão da lesão, para aliviar a compressão sobre o nervo."
+},{
+    "@context": "http://schema.org",
+    "@type": "SurgicalProcedure",
+    "name": "Microdiscectomia",
+    "howPerformed": "Cirurgia esta realizada com uma pequena incisão (corte) de aproximadamente 2 cm, através da qual o cirurgião, com uso de uma fonte de luz (led- iluminação correspondente à 13.000 velas), uma lupa cirúrgica (amplia a visão em 3x) e afastadores especiais, realiza o acesso à coluna e realiza a retirada do fragmento de disco herniado.",
+    "indication": {
+        "@type": "MedicalIndication",
+        "description": "Quando o paciente precisa retirar apenas o fragmento do disco herniado, o indicado é uma discectomia minimamente invasiva."
+    }
+},{
+  "@context": "http://schema.org",
+  "@type": "SurgicalProcedure",
+  "name": "Microdiscectomia por via endoscópica",
+  "bodyLocation": "Coluna",
+  "howPerformed": "A cirurgia é realizada com uso de uma câmera específica que facilita a iluminação e visibilidade em detalhes. Instrumentos cirúrgicos especiais também são usados, os quais permitem trabalho minucioso em espaços muito restritos, com cortes bem menores em comparação aos de uma cirurgia convencional.",
+  "procedureType": {
+      "@type": "MedicalProcedureType",
+      "@id": "http://www.drfabioafernandes.com.br/cirurgia-minimamente-invasiva/",
+      "name": "Cirurgia Minimamente invasiva"
+   
+  }
+    
+},{
+    "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.drfabioafernandes.com.br/project/medico-especialista-em-coluna-hernia-lombar/"
+  },
+  "headline": "Hérnia de Disco Lombar",
+  "articleBody": "Tudo que você precisa saber sobre hérnia de disco lombar!
+Imagine um travesseiro com falhas na costura do forro, deixando escapar espuma do seu interior… Assim acontece nos discos da coluna vertebral, quando ocorre uma ruptura na camada externa denominada anel fibroso, permitindo escapar o núcleo pulposo, que é um fragmento da região interna do disco. É uma comparação lúdica para tentar explicar como acontece o que neste artigo vamos mostrar: a hérnia de disco lombar. Por isso, para que possamos entender melhor esse processo patológico e seu tratamento, precisamos conhecer um pouco dessa anatomia e incorporar o olhar de um médico especialista em coluna para reforçar a consciência sobre a importância de levar a sério o que pode parecer uma simples dor nas costas.
+Entendendo a anatomia…
+COLUNA VERTEBRAL
+A coluna vertebral é dividida em cinco partes verticalizadas: cervical (região superior das costas), torácica (região mediana das costas), lombar (região inferior das costas), sacral e coccígea (regiões finais das costas). Alguns estudiosos definem estas duas últimas como uma só, a sacrococcígea, contabilizando assim apenas quatro partes na coluna.
+
+A estrutura óssea da coluna é formada pelas vértebras, e dentro delas há uma espécie de canal, conhecido como o canal vertebral, que é onde passa a medula espinhal junto com as raízes nervosas. Essas raízes se apresentam em 31 pares de nervos, os quais saem da coluna vertebral pelos orifícios localizados entre uma vértebra e outra (orifícios de conjugação), e é justamente por meio desses nervos que a medula emite os impulsos do sistema nervoso que proporcionam os movimentos dos músculos. Portanto, podemos concluir como é enorme a importância da coluna em nosso organismo, pois assim como a caixa craniana protege o cérebro, a coluna é esse tubo que protege a medula de possíveis compressões e traumas. Tudo para que o nosso corpo possa se movimentar livre e saudavelmente.
+
+COLUNA VERTEBRAL – REGIÃO LOMBAR
+Podemos distinguir a região lombar da coluna vertebral pela área da popularmente conhecida cintura.
+Se formos identificar pela contagem das vértebras, vamos contabilizar cinco vértebras lombares, chamadas de L1 (Lombar 1), L2(Lombar 2), L3(Lombar 3), L4(Lombar 4) e L5(Lombar 5). E é bastante comum encontrar essas abreviaturas nos laudos de exames de imagem, como a ressonância magnética, para analisar a curvatura lordótica, como é denominada pelos profissionais e estudiosos da área.
+A região lombar da coluna, dentre as outras regiões, é a maior responsável pela função dos movimentos, a qual propicia ao corpo flexão para frente e para trás, lateralidade e rotação (embora em poucos graus). Por isso, é a parte mais sobrecarregada da coluna, e essa carga é sentida entre as vértebras, podendo atingir e danificar os discos.
+Médico Especialista em Coluna: Níveis Lombares
+DISCOS INTERVERTEBRAIS
+São localizados entre as vértebras – por isso, intervertebrais – nas regiões: cervical, torácica e lombar. Contabilizam 23 unidades e constituem cerca de 25% do comprimento de toda a coluna.
+Possuem estrutura cilíndrica, como um anel fibroso no lado externo, e, por dentro, um núcleo pulposo de textura gelatinosa. Podem apresentar tamanhos, espessuras e formatos diferentes, dependendo da região da coluna.
+São compostos por cartilagens de pouca vascularização, isso quer dizer que há pouca circulação sanguínea, o que impossibilita sua oxigenação celular e consequente regeneração da estrutura. Por esse motivo, quando um disco intervertebral se degenera, seja por trauma ou mesmo envelhecimento e desidratação natural, pode ocasionar diminuição na estatura da coluna e do corpo, o que é visto comumente em idosos. Além disso, os discos são as partes mais afetadas da coluna, já que possuem a função de amortecer os impactos, absorvendo os choques a fim de evitar atritos entre as vértebras. E aí está a razão de tantos diagnósticos de problemas nos discos em pacientes com queixas na coluna.
+Médico Especialista em Coluna: Discos Vertebrais
+O fato é que os discos se ligam às vértebras através de placas terminais, as quais compartilham todo desgaste e envelhecimento do sistema nervoso e neurológico. Este é o grande desafio para a ciência preventiva: conhecer essa conexão a fundo, com foco no propósito de entender esse processo evolutivo e, assim, conseguir descobrir o que pode evitar essas patologias relacionadas, como a hérnia de disco lombar, por exemplo.
+INERVAÇÃO – RAÍZES NERVOSAS
+Por trás de cada disco sai uma raiz nervosa à direita e uma raiz nervosa à esquerda. Cada raiz é responsável por inervar a pele de uma determinada região dos membros inferiores (região chamada de dermátomo) e de um determinado grupo muscular (grupo de músculos chamado de miótomo), além de também ser responsável por um determinado reflexo específico.
+Exemplo: um paciente com uma hérnia foraminal no nível L5-S1, terá a compressão da raíz de S1, e esta raíz é responsável por inervar a região do glúteo, posterior da coxa, panturrilha e sola do pé (dermátomo), e também é responsável pelo movimento de flexão plantar do pé (gastrocmênio-miótomo) e pelo reflexo no tendão de Aquiles (reflexo Aquiles).
+Inervação:
+Raiz de L3 – sensibilidade: face anterolateral da coxa; motor: quadríceps.
+Raiz de L4- sensibilidade: face medial da perna; motor: tibial anterior; reflexo: patelar.
+Raiz de L5- sensibilidade: face lateral da perna e dorso do pé ; motor: extensor do hálux.
+Raiz de S1- sensibilidade: posterior de coxa e sola do pé ; motor: flexão plantar; reflexo: Aquileu.
+Desta forma, um médico cirurgião especialista em coluna experiente pode, por meio da queixa do paciente e do exame físico, suspeitar qual nível da coluna está acometido (qual raiz nervosa), e a gravidade da compressão radicular.
+
+Como acontece a formação de uma hérnia de disco lombar?
+De acordo com o grau de degeneração, a doença pode ser classificada em quatro estágios:
+1. Quando o disco está intacto – O comprometimento se deu apenas nas placas nervosas, não tendo acometido ainda o resto dos componentes da estrutura, porém já pode haver sintomas e limitações por conta da inflamação dos nervos;
+Médico Especialista em Coluna: Disco Normal
+2. Quando já há um abaulamento discal – É considerado o início em si da patologia. O disco já começa a ser acometido pelo envelhecimento, e o anel fibroso (as fibras) já apresenta fissuras que o deformam, deixando-o em forma de arco. Podemos comparar com uma câmara de pneu quando está velha e deformada, com formação de bolhas;
+Médico Especialista em Coluna: Abaulamento Discal
+3. Quando há protrusão discal – Aqui já é considerado um estágio avançado da doença; o disco já está bem mais comprometido, com protuberâncias, saliências em sua estrutura. Pode já ter atingido nervos, medula e canal medular. O núcleo pulposo permanece envolvido pelo anel fibroso, que ainda não foi rompido;
+Médico Especialista em Coluna: Protusão Discal
+4. Quando há sequestro ou fragmento (hérnia extrusa)– Eis o estágio mais avançado, considerado raro nessa patologia. Aqui se deu a ruptura total da parte acometida pela hérnia de disco. E dependendo da localização, pode-se avaliar o comprometimento das estruturas.
+Médico Especialista em Coluna: Sequestro
+Causas específicas de uma hérnia de disco lombar
+Dentre as causas de uma hérnia de disco lombar, podemos citar:
+Predisposição genética, fatores hereditários;
+Envelhecimento natural;
+Esforço físico inadequado e/ou repetitivo, como levantar, empurrar, puxar ou carregar muito peso, inclinar e girar o tronco com muita frequência, atividades de alto impacto que conduzem a movimentos bruscos (quando não bem supervisionadas);
+Má postura;
+Obesidade;
+Sedentarismo;
+Tabagismo.
+Os sintomas
+Como é comum a popular dor nas costas, não é mesmo? Quando sentida na região da cintura, tem-se a famosa dor lombar ou lombalgia. E, dependendo do grau de compressão na raiz nervosa, essa dor é irradiada para uma ou para as duas pernas, o que conhecemos como “dor ciática”, o sintoma mais frequente causado por hérnia de disco lombar.
+A irradiação da dor de uma hérnia de disco lombar pode até chegar os pés. E o paciente também pode sentir dormência e formigamentos nos membros. Em casos avançados é possível ocorrer enfraquecimento das pernas e incontinência urinária.
+Mas, a hérnia de disco lombar também pode ser assintomática. E é preciso estar atento, pois frequentemente ocorrem casos de pacientes com queixas de dores nas costas que encontram outra patologia responsável pelo incômodo nos diagnósticos de seus exames e simplesmente não ligam para existência da hérnia, adotando medidas com foco apenas na doença causadora da dor que acabam agravando a hérnia de disco, como é o exemplo de quem deixa de praticar exercícios físicos, entregando-se ao sedentarismo enquanto deveriam estar fazendo atividades preventivas para corrigir postura e diminuir fatores de riscos de evolução da hérnia.
+Como saber se a minha dor nas costas é um problema de hérnia de disco lombar?
+Ao sentir aquela dor nas costas, não hesite em procurar um médico especialista em coluna o quanto antes! Pois, a avaliação clínica é o primeiro passo para o diagnóstico. Como atrás de cada disco sai um nervo específico (raiz), e cada nervo é responsável por uma determinada região dos membros inferiores (MMII), o cirurgião de coluna experiente consegue suspeitar qual nível da coluna está acometido. Após o exame fisico, o mesmo deve ser complementado com exames de imagem : radiológicos (Raios-X), tomografias computadorizadas (TC) e ressonâncias nucleares magnéticas (RNM). Em alguns casos o cirurgião de coluna pode necessitar de um exame chamado ENMG- eletroneuromiografia, que tem a finalidade de estudar a parte sensitiva e motora dos MMII. Tudo isso para obter uma sondagem aprofundada e assertiva, a fim de que se consiga avaliar a dimensão e a localização específica da lesão.
+O médico especialista em coluna também irá pesquisar o histórico do paciente, inclusive familiar (por conta dos fatores hereditários), fazendo uma anamnese de todas as queixas, sintomas e hábitos dessa pessoa para avaliar possíveis causas da hérnia de disco lombar.
+Qual a melhor maneira de tratar uma hérnia de disco lombar?
+Quando o diagnóstico de hérnia de disco lombar é confirmado, o tratamento a ser indicado pelo médico especialista em coluna irá depender do grau de evolução da doença e seus sintomas.
+Em muitos casos, o tratamento clínico convencional pode controlar a hérnia de disco lombar. O uso de analgésicos, anti-inflamatórios, sessões de fisioterapia, acupuntura ou apenas repouso físico temporário são alternativas que devem ser recomendadas e acompanhadas apenas por um médico especialista em coluna e nunca por conta própria ou conselhos amadores. Pois vale lembrar que cada caso é uma situação diferente e precisa de tratamento específico, sem contar nos cuidados colaterais de algumas medidas, como o repouso absoluto, por exemplo, que não deve ultrapassar dois dias para não prejudicar a musculatura. Portanto, toda e qualquer ação de tratamento precisa ser indicada por seu médico especialista em coluna.
+Há algumas situações em que a hérnia de disco lombar é considerada situação emergencial para tratamento cirúrgico. Confira quais são:
+Síndrome de cauda equina – Quando há perda da sensibilidade na região genital e nos membros inferiores junto com enfraquecimento muscular;
+Síndrome de compressão medular;
+Perda de força progressiva;
+Dor aguda incapacitante e refratária aos medicamentos já utilizados;
+Quando o sofrimento do nervo é muito grande.
+Entre as cirurgias de coluna, a mais comum é a de retirada da hérnia de disco lombar, que, como já vimos, é um fragmento que se desloca e comprime a raiz nervosa. E a cirurgia, portanto, consiste em liberar o nervo e retirar esse pedaço de disco deslocado. São várias as técnicas cirúrgicas, muitas minimamente invasivas, inclusive as por vídeo, e o médico cirurgião especialista em coluna é quem pode escolher a mais adequada.
+Cirurgias para tratar hérnia de disco lombar:
+Disectomia
+DISCECTOMIA é a retirada do disco herniado ou parte dele, dependendo da extensão da lesão, para aliviar a compressão sobre o nervo.
+Microdiscectomia
+Quando o paciente precisa retirar apenas o fragmento do disco herniado, o indicado é uma discectomia minimamente invasiva – Cirurgia esta realizada com uma pequena incisão (corte) de aproximadamente 2 cm, através da qual o cirurgião, com uso de uma fonte de luz (led- iluminação correspondente à 13.000 velas), uma lupa cirúrgica (amplia a visão em 3x) e afastadores especiais, realiza o acesso à coluna e realiza a retirada do fragmento de disco herniado.
+Microdiscectomia por via endoscópica
+A cirurgia é realizada com uso de uma câmera específica que facilita a iluminação e visibilidade em detalhes. Instrumentos cirúrgicos especiais também são usados, os quais permitem trabalho minucioso em espaços muito restritos, com cortes bem menores em comparação aos de uma cirurgia convencional. O tratamento é seguro e efetivo, de forma minimamente invasiva, com menores danos, com menor tempo de internação hospitalar e recuperação bem mais rápida.
+Leia mais sobre Cirurgia Minimamente Invasiva da Coluna Vertebral e confira as vantagens e desvantagens de cada técnica de discectomia.
+Quando o paciente tem hérnia de disco lombar e instabilidade (excesso de movimento do “nível” do disco herniado), deve-se, além de retirar o disco, realizar artrodese, que é a fusão entre duas vértebras, no intuito de estabilizar o segmento da coluna com hipermobilidade. Desta forma, o paciente não terá mais a dor pela instabilidade, nem a compressão neurológica, causada pelo fragmento de disco degenerado. O médico cirurgião especialista em coluna irá optar pela artrodese específica para cada caso, dentre elas:
+Artrodese com parafusos peliculares (artrodese póstero-lateral);
+Artrodese 360 graus (com parafusos pediculares + Cage do tipo TLIF);
+Artrodese via de acesso anterior com dispositivo de Cage tipo ALIF;
+Artrodese via de acesso lateral com dispositivo de Cage tipo XLIF;
+Artrodese via de acesso lateral com dispositivo de Cage tipo LLIF.
+Conheça os diferentes tipos de artrodese, com suas vantagens e desvantagens em: Cirurgia Minimamente Invasiva da Coluna Vertebral.
+Como viver após uma hérnia de disco lombar tratada…
+Agora você já sabe que uma simples dor nas costas pode ser um sinal de alerta! Por isso, a qualquer sintoma de hérnia de disco lombar, procure um médico especialista em coluna para diagnóstico, tratamento e acompanhamento pós-cirúrgico, quando for o caso. Lembre que os fatores causadores de hérnias são vários, por isso elas podem reaparecer, no mesmo local ou em regiões diferentes. Converse com seu médico especialista em coluna, siga as orientações de reabilitação, adote bons hábitos de atividades físicas, mantenha posturas saudáveis e viva bem melhor!",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.drfabioafernandes.com.br/project/medico-especialista-em-coluna-hernia-lombar/",
+    "height": 338,
+    "width": 540
+  },
+  "datePublished": "2016-11-08T08:56:00-03:00",
+  "dateModified": "2017-10-18T09:32:00-03:00",
+  "author": {
+    "@type": "Person",
+    "@id": "http://www.drfabioafernandes.com.br",
+    "name": "Dr. Fábio A. Fernandes",
+    "sameAs": [
+    "https://www.facebook.com/profile.php?id=100011887989563",
+    "https://plus.google.com/+DrFabioAFernandes",
+    "https://www.instagram.com/drfabioafernandes/"
+]
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Dr. Fábio A. Fernandes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2017/06/logo-dr-fabio-google-amp.png",
+      "width": 600,
+      "height": 60
+    },
+       "url": "http://www.drfabioafernandes.com.br",
+       "sameAs": [
+           "https://www.facebook.com/drfabioafernandes/",
+           "https://plus.google.com/109431101764843430130",
+           "https://www.youtube.com/channel/UCA94WMHt-7tzGaieaZCRfTQ"
+           ]
+  },
+  "description": "Hérnia de disco lombar extrusa é uma condição ortopédica muito frequente e importante, confira porque consultar um médico especialista em coluna."
+    
+    
+},{    
+    
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+ [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item":
+    {
+     "@id": "http://www.drfabioafernandes.com.br",
+     "name": "Home"
+ } 
+ },
+ 
+ {
+    "@type": "ListItem",
+    "position": 2,
+    "item":
+    {
+     "@id": "http://www.drfabioafernandes.com.br/medico-ortopedista-tratamentos/",
+     "name": "Tratamentos"
+ } 
+ },
+ 
+  {
+    "@type": "ListItem",
+    "position": 3,
+    "item":
+    {
+     "@id": "http://www.drfabioafernandes.com.br/medico-ortopedista-tratamentos/medico-especialista-em-coluna-tratamentos/",
+     "name": "Coluna"
+ } 
+ },
+   {
+    "@type": "ListItem",
+    "position": 4,
+    "item":
+    {
+     "@id": "http://www.drfabioafernandes.com.br/project/medico-especialista-em-coluna-hernia-lombar/",
+     "name": "Hérnia de Disco Lombar"
+ }
+ } 
+   ]
+
+}
+    ]
+</script>

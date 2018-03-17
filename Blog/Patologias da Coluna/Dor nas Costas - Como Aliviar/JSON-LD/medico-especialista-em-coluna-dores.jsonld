@@ -1,0 +1,75 @@
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.drfabioafernandes.com.br/medico-especialista-em-coluna-dores"
+  },
+  "headline": "Dor nas costas – Como aliviar",
+  "articleBody": "Dor nas costas é um mal que atinge a maioria das pessoas, devido à estrutura delicada da coluna vertebral. Suas 33 vértebras dão sustentação e mobilidade ao corpo, além de abrigar a medula que faz parte do Sistema Nervoso Central, e tem como função ligar o cérebro ao restante do corpo. Por isso, cuidados especiais são necessários.
+Tipos de dores nas costas:
+Dor Lombar: É o tipo de dor mais comum, também pode ser chamada de lombalgia. Podem existir aproximadamente 50 causas para este tipo de dor.
+Dor Cervical: Normalmente vem acompanhada de rigidez, afeta a região entre o tronco e a cabeça.
+Dor Dorsal: afeta a parte torácica posterior, e é a menos comum das três.
+Entre os principais fatores de risco, ou seja, fatores que podem potencializar a frequência e intensidade das dores estão o tabagismo, sedentarismo, obesidade e o envelhecimento. Entre os cuidados mais básicos com a saúde estão envolvidos os exercícios e a alimentação saudável.
+As dores nas costas podem variar entre desconfortos momentâneos por causa da postura, mas também podem ser causadas por patologias. Entendendo as causas desse desconforto, separamos algumas dicas de cuidados e também de alívio das dores.
+Dicas para afastar as dores nas costas:
+Use escadas! Evite elevadores e escadas rolantes quando puder, subir escadas pode te ajudar no fortalecimento da musculatura.
+Ao invés de usar o carro para ir até a padaria que fica na outra quadra, calce os tênis de corrida e vá a pé. É uma ótima oportunidade para deixar o sedentarismo de lado.
+No trabalho, levante e caminhe um pouco a cada meia hora, ajuda a aliviar ou evitar dores.
+Se você vai de ônibus até o trabalho, experimente descer um ponto antes, as vezes e termine o trajeto a pé.
+Faça pequenas tarefas domesticas diariamente como levar o cachorro para passear, arrumar a cama, faxinar a casa. Todos esses exercícios podem evitar problemas futuros.
+O Sedentarismo é um dor maiores vilões das dores nas costas, escolha uma atividade física e pratique-a regularmente, convide um amigo e divirtam-se.
+Além dessas dicas, se suas dores têm sido muito frequentes, tente encontrar o foco da causa da dor, verifique sua postura, se seus móveis de trabalho são adequados, caso você não consiga encontrar, procure um especialista. Livre-se das dores e tenha uma vida saudável. Lembre-se: Dores são um alerta!",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2016/11/dor-nas-costas-1080x675.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2016-11-07T08:38:00-03:00",
+  "dateModified": "2017-08-04T16:35:00-03:00",
+  "wordCount": 396,
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Fábio A. Fernandes"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Dr. Fábio A. Fernandes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.drfabioafernandes.com.br/wp-content/uploads/2017/06/logo-dr-fabio-google-amp.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "description": "Dor nas costas é um mal que atinge a maioria das pessoas, devido à estrutura delicada da coluna vertebral, confira nesse artigo formas para aliviar."
+}, {
+    "@context" : "http://schema.org",
+      "@type" : "MedicalCondition",
+      "medicineSystem": "WesternConventional",
+      "associatedAnatomy":{
+          "@type" : "AnatomicalStructure",
+          "name" : "Costas",
+          "associatedPathophysiology" : "Dor nas Costas",
+          "bodyLocation" : "Costas",
+          "connectedTo" : "Coluna",
+          "relatedCondition" : "Dor das Costas"
+        },
+          "primaryPrevention": {
+            "@type": "MedicalTherapy",
+            "name":"Dicas de como prevenir lesões nas articulações do ombro",
+            "howPerformed":["Use escadas! Evite elevadores e escadas rolantes quando puder, subir escadas pode te ajudar no fortalecimento da musculatura.",
+"Ao invés de usar o carro para ir até a padaria que fica na outra quadra, calce os tênis de corrida e vá a pé. É uma ótima oportunidade para deixar o sedentarismo de lado.",
+"No trabalho, levante e caminhe um pouco a cada meia hora, ajuda a aliviar ou evitar dores.",
+"Se você vai de ônibus até o trabalho, experimente descer um ponto antes, as vezes e termine o trajeto a pé.",
+"Faça pequenas tarefas domesticas diariamente como levar o cachorro para passear, arrumar a cama, faxinar a casa. Todos esses exercícios podem evitar problemas futuros.",
+"O Sedentarismo é um dor maiores vilões das dores nas costas, escolha uma atividade física e pratique-a regularmente, convide um amigo e divirtam-se.",
+"Além dessas dicas, se suas dores têm sido muito frequentes, tente encontrar o foco da causa da dor, verifique sua postura, se seus móveis de trabalho são adequados, caso você não consiga encontrar, procure um especialista."
+]
+}
+    }
+  ]
+  </script>
