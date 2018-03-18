@@ -1,2 +1,2 @@
 # Tratamentos
-Neste diretório se encontra a diagramação de todos os artigos publicados no site [Dr. Fábio A. Fernandes](http://www.drfabioafernandes.com.br), escritos em sua maioria pela jornalista [Rita de Melo Cerqueira](mailto:rmelodecerqueira@gmail.com).
+Neste diretório se encontra a diagramação de todos os artigos publicados no site [Dr. Fábio A. Fernandes](http://www.drfabioafernandes.com.br), escritos em sua maioria pela jornalista [Rita Melo de Cerqueira](mailto:rmelodecerqueira@gmail.com).
