@@ -1,5 +1,5 @@
-# Tratamentos
-Neste diretório se encontra a diagramação de todos os artigos publicados no site [Dr. Fábio A. Fernandes](http://www.drfabioafernandes.com.br), escritos em sua maioria pela jornalista [Rita Melo de Cerqueira](mailto:rmelodecerqueira@gmail.com).
+# Blog
+Neste diretório se encontra a diagramação de todos os artigos publicados no site para o blog do  [Dr. Fábio A. Fernandes](http://www.drfabioafernandes.com.br), escritos em sua maioria pela jornalista [Rita Melo de Cerqueira](mailto:rmelodecerqueira@gmail.com).
 
 ## Estrutura de diretórios:
 
@@ -17,4 +17,4 @@ Informações serializadas dos artigos que podem ser utilizadas para que os busc
 
 ### Imagens
 
-O diretório contém as imagens nos formatos PNG e JPG. Além disso também pode incluir os arquivos de projeto no qual as imagens foram adaptadas para diferentes resoluções. 
+O diretório contém as imagens nos formatos PNG e JPG. Além disso, também pode incluir os arquivos de projeto no qual as imagens foram adaptadas para diferentes resoluções. 
